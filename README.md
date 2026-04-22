@@ -1,3 +1,8 @@
+<!--
+  GITHUB PROFILE BIO (Settings → Edit Profile → Bio):
+  Mobile Engineer · Android & iOS · Compose Multiplatform · Kotlin · Clean Architecture
+-->
+
 <div align="center">
 
 # Shafqat Ullah
@@ -49,9 +54,17 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 **Backend & Web**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Android Libraries**
+
+![Coil](https://img.shields.io/badge/Coil-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MPAndroidChart](https://img.shields.io/badge/MPAndroidChart-FF6B00?style=flat-square)
+![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
@@ -109,6 +122,23 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 
 ---
 
+> 🗂 **More projects** including GPS tools, health & fitness trackers, PDF readers, voice translation, custom keyboards, e-commerce, and real-time bidding apps — see [portfolio](https://shafqat-ullah-haider.vercel.app/) for full list.
+
+---
+
+## 📱 Live on Play Store
+
+> Apps I've shipped to production — available on Google Play.
+
+| App | Category | Link |
+|---|---|---|
+| Universal Remote Control | IoT / Smart Home | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ac.remote.tv.remote.control.screenmirroring) |
+| Finance Management App | Fintech | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.smartbudget.moneytracker.expensetracker) |
+| English Dictionary: Vocabulary | EdTech | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.simplelife.englishdictionary.learnenglish.dictionary) |
+| Earth Map: Satellite Map | Navigation / GPS | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.satellite.live.earth.map) |
+
+---
+
 ## 💼 Experience
 
 | Company | Role | Period |
@@ -119,26 +149,6 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 | **NineSol Technologies** | Android Developer | Jul 2022 – Sep 2023 |
 | **Neutralinks Developers** | Android Developer | Aug 2021 – Jul 2022 |
 | **Pixider's Inc** | Android Developer Intern | Sep 2020 – Aug 2021 |
-
----
-
-## 📊 GitHub Stats
-
-> 💡 Work & client projects are committed under a separate account — both shown below for full picture.
-
-<div align="center">
-
-**[@shafqat-ullah-dev](https://github.com/shafqat-ullah-dev)** — personal & open source
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shafqat-ullah-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat-ullah-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=6" />
-
-**[@shfqtm2](https://github.com/shfqtm2)** — Mobify (current employer)
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shfqtm2&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7F52FF&icon_color=7F52FF&text_color=FFFFFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shfqtm2&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=FFFFFF&langs_count=6" />
-
-</div>
 
 ---
 
