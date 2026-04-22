@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shafqat Ullah
-### Senior Android Developer · Compose Multiplatform · Kotlin
+### Mobile Engineer · Compose Multiplatform · Kotlin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF9C?style=flat-square&logo=vercel&logoColor=black)](https://shafqat-ullah-haider.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shafqatullah193-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafqatullah193/)
