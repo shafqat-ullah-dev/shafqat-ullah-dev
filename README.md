@@ -75,6 +75,8 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 - Financial planning tools with charts and category breakdowns
 - Clean Architecture + MVVM with Room for offline-first data persistence
 
+[![Play Store](https://img.shields.io/badge/Play_Store-View_App-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.smartbudget.moneytracker.expensetracker)
+
 ---
 
 ### English Dictionary: Vocabulary
