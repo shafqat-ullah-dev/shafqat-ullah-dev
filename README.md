@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shafqat Ullah
-### Mobile Engineer · Compose Multiplatform · Kotlin
+### Senior Android Developer · Compose Multiplatform · Kotlin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF9C?style=flat-square&logo=vercel&logoColor=black)](https://shafqat-ullah-haider.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shafqatullah193-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafqatullah193/)
@@ -122,10 +122,19 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 
 ## 📊 GitHub Stats
 
+> 💡 Work & client projects are committed under a separate account — both shown below for full picture.
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shafqat-ullah-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+**[@shafqat-ullah-dev](https://github.com/shafqat-ullah-dev)** — personal & open source
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shafqat-ullah-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat-ullah-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=6" />
+
+**[@shfqtm2](https://github.com/shfqtm2)** — Mobify (current employer)
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shfqtm2&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7F52FF&icon_color=7F52FF&text_color=FFFFFF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shfqtm2&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=FFFFFF&langs_count=6" />
 
 </div>
 
