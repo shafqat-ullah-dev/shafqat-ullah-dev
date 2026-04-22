@@ -124,8 +124,8 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=0xshadowglitch&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshadowglitch&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shafqat-ullah-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat-ullah-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=6" />
 
 </div>
 
