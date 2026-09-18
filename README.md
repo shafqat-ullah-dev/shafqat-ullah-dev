@@ -1,12 +1,12 @@
 <!--
   GITHUB PROFILE BIO (Settings → Edit Profile → Bio):
-  Mobile Engineer · Android & iOS · Compose Multiplatform · Kotlin · Clean Architecture
+  Software Engineer Android · Android & iOS · Compose Multiplatform · Kotlin · Clean Architecture
 -->
 
 <div align="center">
 
 # Shafqat Ullah
-### Senior Android Developer · Compose Multiplatform · Kotlin
+### Software Engineer Android · Compose Multiplatform · Kotlin
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FF9C?style=flat-square&logo=vercel&logoColor=black)](https://shafqat-ullah-haider.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shafqatullah193-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafqatullah193/)
@@ -19,9 +19,9 @@
 
 ## About
 
-Senior Android Developer with **4+ years** of experience architecting and delivering high-performance mobile applications across **IoT, EdTech, Health & Fitness, Fintech, and E-commerce** domains.
+Software Engineer Android with **4+ years** of experience architecting and delivering high-performance mobile applications across **Fintech, IoT, EdTech, Health & Fitness, and E-commerce** domains.
 
-Currently specializing in **Compose Multiplatform (CMP)** — building cross-platform apps targeting Android, iOS, Desktop, and Web from a single Kotlin codebase. Proven track record of leading end-to-end development lifecycles with international teams and clients.
+Currently engineering scalable mobile solutions at **[AKSA-SDS](https://www.aksa-sds.com/)** for **JazzCash**, Pakistan's leading digital wallet and financial services platform. Specializing in **Compose Multiplatform (CMP)**, modern Android architecture, and building robust offline-first, secure mobile systems.
 
 ---
 
@@ -69,6 +69,17 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 ---
 
 ## 🚀 Featured Projects
+
+### JazzCash
+> Leading mobile financial services & digital wallet platform · **[AKSA-SDS](https://www.aksa-sds.com/)**
+
+- Contributing to core Android modules serving millions of active users across Pakistan
+- Implementing secure payment flows, digital onboarding, and high-concurrency transactions
+- Driving modularization, clean architecture, and responsive UI components
+
+[![Play Store](https://img.shields.io/badge/Play_Store-View_App-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer)
+
+---
 
 ### Universal Remote Control
 > Multi-device remote control with WiFi and IR support for TVs and ACs · **Mobify, 2024**
@@ -128,10 +139,11 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 
 ## 📱 Live on Play Store
 
-> Apps I've shipped to production — available on Google Play.
+> Apps I've shipped or contributed to — available on Google Play.
 
 | App | Category | Link |
 |---|---|---|
+| JazzCash | Fintech / Digital Wallet | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer) |
 | Universal Remote Control | IoT / Smart Home | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.ac.remote.tv.remote.control.screenmirroring) |
 | Finance Management App | Fintech | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.smartbudget.moneytracker.expensetracker) |
 | English Dictionary: Vocabulary | EdTech | [![](https://img.shields.io/badge/Play_Store-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.simplelife.englishdictionary.learnenglish.dictionary) |
@@ -143,7 +155,8 @@ Currently specializing in **Compose Multiplatform (CMP)** — building cross-pla
 
 | Company | Role | Period |
 |---|---|---|
-| **Mobify** | Senior Android Developer | Mar 2024 – Present |
+| **[AKSA-SDS](https://www.aksa-sds.com/)** | Software Engineer Android | Jul 2026 – Present |
+| **Mobify** | Senior Android Developer | Mar 2024 – Jun 2026 |
 | **Trino** | Android Developer | Oct 2023 – Mar 2024 |
 | **Freelance** | Android Developer (International) | 2022 – 2024 |
 | **NineSol Technologies** | Android Developer | Jul 2022 – Sep 2023 |
